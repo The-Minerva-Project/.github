@@ -9,4 +9,7 @@
 
 
 <h3 align="center">SOON</h3>
+<p align="center">
+  <em>An online home for gamers</em>
+</p>
 
